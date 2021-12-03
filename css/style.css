@@ -152,6 +152,7 @@ header{
     overflow: hidden;
     font-size: 18px;
     color: #969398;
+    flex-grow: 1;
 }
 
 .buttons{
